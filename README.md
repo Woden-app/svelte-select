@@ -7,9 +7,6 @@
     yarn add @woden/svelte-select
     
 ## Basic Usage
-Import the package and use it as an action, provide a parameter which is the action you would like to fire when clickOutside is detected
-
-
 ```html
 <script>
 import Select from '@woden/svelte-select'
