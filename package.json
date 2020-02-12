@@ -1,0 +1,28 @@
+{
+  "name": "@woden/svelte-select",
+  "version": "1.0.1",
+  "main": "lib/index.js",
+  "module": "src/index.svelte",
+  "repository": "https://github.com/Woden-app/svelte-select.git",
+  "author": "Woden",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^1.31.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-svelte": "^5.1.1",
+    "svelte": "^3.18.2"
+  },
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "files": [
+    "src",
+    "lib"
+  ],
+  "keywords": [
+    "svelte"
+  ],
+  "dependencies": {
+    "@woden/svelte-click-outside": "^1.0.4"
+  }
+}
