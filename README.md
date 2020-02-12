@@ -1,5 +1,4 @@
 # svelte-select
-An action that provides click outside detection for Svelte
 
 ## Installation
 ### Npm
